@@ -1,0 +1,538 @@
+[
+  {
+    "riddle": "How many legs does a cow have?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many months of the year can you plant potatoes?",
+    "options": ["1", "5", "8", "6"],
+    "answer": "8"
+  },
+  {
+    "riddle": "How many stomachs does a cow have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many days does it take for a chicken egg to hatch?",
+    "options": ["21", "30", "14", "10"],
+    "answer": "21"
+  },
+  {
+    "riddle": "How many hooves does a horse have?",
+    "options": ["2", "3", "4", "6"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many years does it take for an apple tree to bear fruit?",
+    "options": ["1", "2", "3", "5"],
+    "answer": "3"
+  },
+  {
+    "riddle": "How many liters of milk does a cow produce per day on average?",
+    "options": ["10", "15", "20", "25"],
+    "answer": "20"
+  },
+  {
+    "riddle": "How many pounds does a bushel of wheat weigh?",
+    "options": ["20", "40", "50", "60"],
+    "answer": "60"
+  },
+  {
+    "riddle": "How many eggs does a hen lay per year on average?",
+    "options": ["100", "200", "250", "300"],
+    "answer": "250"
+  },
+  {
+    "riddle": "How many gallons of water does a dairy cow drink per day?",
+    "options": ["10", "30", "50", "70"],
+    "answer": "50"
+  },
+  {
+    "riddle": "How many acres are in a square mile?",
+    "options": ["360", "420", "640", "800"],
+    "answer": "640"
+  },
+  {
+    "riddle": "How many ears of corn grow on a single corn stalk on average?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1"
+  },
+  {
+    "riddle": "How many months does it take to grow a pumpkin?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many beehives are needed to pollinate an acre of apple orchard?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many days does it take for wheat to mature?",
+    "options": ["50", "100", "120", "150"],
+    "answer": "120"
+  },
+  {
+    "riddle": "How many teats does a goat have?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many gallons of sap does it take to make one gallon of maple syrup?",
+    "options": ["10", "20", "30", "40"],
+    "answer": "40"
+  },
+  {
+    "riddle": "How many years can a dairy cow produce milk?",
+    "options": ["2", "5", "10", "15"],
+    "answer": "5"
+  },
+  {
+    "riddle": "How many sheep make up a flock on average?",
+    "options": ["10", "50", "100", "200"],
+    "answer": "100"
+  },
+  {
+    "riddle": "How many hours per day does a cow spend chewing cud?",
+    "options": ["2", "6", "8", "12"],
+    "answer": "8"
+  },
+  {
+    "riddle": "How many stomachs does a cow have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many teats does a cow's udder have?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many legs does a sheep have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many wings does a chicken have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many ears of corn typically grow on one stalk?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1"
+  },
+  {
+    "riddle": "How many hooves does a horse have?",
+    "options": ["2", "3", "4", "6"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many months does a goat's pregnancy last?",
+    "options": ["3", "5", "7", "9"],
+    "answer": "5"
+  },
+  {
+    "riddle": "How many days does it take for a chicken egg to hatch?",
+    "options": ["14", "21", "28", "35"],
+    "answer": "21"
+  },
+  {
+    "riddle": "How many legs does a pig have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many liters of milk does a cow produce on average per day?",
+    "options": ["10", "25", "35", "50"],
+    "answer": "25"
+  },
+  {
+    "riddle": "How many chambers does a chicken’s heart have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many petals does a sunflower typically have?",
+    "options": ["10", "20", "34", "55"],
+    "answer": "34"
+  },
+  {
+    "riddle": "How many rows of kernels does an ear of corn usually have?",
+    "options": ["8", "12", "16", "20"],
+    "answer": "16"
+  },
+  {
+    "riddle": "How many months does a cow’s pregnancy last?",
+    "options": ["6", "9", "12", "15"],
+    "answer": "9"
+  },
+  {
+    "riddle": "How many ears does a typical goat have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many toes does a pig have on one foot?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many days are in a cow’s estrous cycle?",
+    "options": ["14", "21", "28", "30"],
+    "answer": "21"
+  },
+  {
+    "riddle": "How many gallons of water does a cow drink per day?",
+    "options": ["10", "25", "50", "100"],
+    "answer": "50"
+  },
+  {
+    "riddle": "How many feet tall can a mature sunflower grow?",
+    "options": ["3", "6", "9", "12"],
+    "answer": "12"
+  },
+  {
+    "riddle": "How many days does it take for a piglet to be weaned?",
+    "options": ["7", "14", "21", "28"],
+    "answer": "21"
+  },
+  {
+    "riddle": "How many leaves are usually on a clover plant?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "3"
+  },
+  {
+    "riddle": "How many pounds does a newborn calf typically weigh?",
+    "options": ["30", "50", "80", "100"],
+    "answer": "80"
+  },
+  {
+    "riddle": "How many gallons of milk does it take to make a pound of cheese?",
+    "options": ["5", "10", "12", "15"],
+    "answer": "10"
+  },
+  {
+    "riddle": "How many legs does a turkey have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many toes does a chicken have on one foot?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many stomachs does a sheep have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many months does a pig’s pregnancy last?",
+    "options": ["3", "4", "5", "6"],
+    "answer": "3"
+  },
+  {
+    "riddle": "How many feet tall can corn grow under ideal conditions?",
+    "options": ["5", "8", "12", "15"],
+    "answer": "12"
+  },
+  {
+    "riddle": "How many eggs can a hen lay in one year?",
+    "options": ["100", "200", "300", "400"],
+    "answer": "300"
+  },
+  {
+    "riddle": "How many eyes does a typical bee have?",
+    "options": ["2", "3", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "riddle": "How many legs does a duck have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many udders does a cow have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1"
+  },
+  {
+    "riddle": "How many days does it take for a duck egg to hatch?",
+    "options": ["14", "21", "28", "35"],
+    "answer": "28"
+  },
+  {
+    "riddle": "How many horns does a typical goat have?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many months does a horse's pregnancy last?",
+    "options": ["6", "9", "11", "13"],
+    "answer": "11"
+  },
+  {
+    "riddle": "How many years does it take for an apple tree to start producing fruit?",
+    "options": ["1", "2", "3", "5"],
+    "answer": "3"
+  },
+  {
+    "riddle": "How many times a year do sheep typically get sheared?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1"
+  },
+  {
+    "riddle": "How many wings does a honeybee have?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many stomachs does a deer have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many times a day do cows typically get milked on a dairy farm?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many pounds of honey does a bee produce in its lifetime?",
+    "options": ["1", "2", "5", "10"],
+    "answer": "1"
+  },
+  {
+    "riddle": "How many ears does a typical sheep have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many days does it take to grow a radish?",
+    "options": ["10", "20", "30", "40"],
+    "answer": "20"
+  },
+  {
+    "riddle": "How many humps does a Bactrian camel have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many toes does a cow have on one foot?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many days does it take for a turkey egg to hatch?",
+    "options": ["21", "28", "35", "42"],
+    "answer": "28"
+  },
+  {
+    "riddle": "How many leaves does a strawberry plant typically have on each stem?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "riddle": "How many stomachs does a llama have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "3"
+  },
+  {
+    "riddle": "How many quarts of milk does a goat produce per day?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many months does a rabbit’s pregnancy last?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1"
+  },
+  {
+    "riddle": "How many claws does a chicken have on each foot?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many ears does a rabbit have?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many days does it take to grow lettuce?",
+    "options": ["30", "45", "60", "75"],
+    "answer": "45"
+  },
+  {
+    "riddle": "How many feet long can a pumpkin vine grow?",
+    "options": ["10", "20", "30", "40"],
+    "answer": "30"
+  },
+  {
+    "riddle": "How many months does a donkey's pregnancy last?",
+    "options": ["6", "9", "12", "14"],
+    "answer": "12"
+  },
+  {
+    "riddle": "How many legs does a goat have?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many gallons of water does a horse drink per day?",
+    "options": ["5", "10", "15", "25"],
+    "answer": "10"
+  },
+  {
+    "riddle": "How many hooves does a deer have?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "4"
+  },
+
+  {
+    "riddle": "How many pounds of feed does a chicken need to produce one dozen eggs?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many gallons of water does a dairy cow need to drink to produce one gallon of milk?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "4"
+  },
+  {
+    "riddle": "How many bushels of corn are produced per acre on a high-yield farm?",
+    "options": ["100", "150", "200", "250"],
+    "answer": "200"
+  },
+  {
+    "riddle": "How many pounds of wool does a sheep produce per year on average?",
+    "options": ["5", "10", "15", "20"],
+    "answer": "10"
+  },
+  {
+    "riddle": "How many weeks does it take for a broiler chicken to reach market weight?",
+    "options": ["4", "6", "8", "10"],
+    "answer": "6"
+  },
+  {
+    "riddle": "How many pounds of grain are needed to produce one pound of beef?",
+    "options": ["3", "6", "10", "15"],
+    "answer": "6"
+  },
+  {
+    "riddle": "How many flowers must a honeybee visit to make one pound of honey?",
+    "options": ["10,000", "50,000", "100,000", "2,000,000"],
+    "answer": "2,000,000"
+  },
+  {
+    "riddle": "How many eggs can a turkey lay in a year?",
+    "options": ["50", "100", "150", "200"],
+    "answer": "100"
+  },
+  {
+    "riddle": "How many minutes does it take for milk to go from a cow to being refrigerated on a modern farm?",
+    "options": ["5", "30", "60", "120"],
+    "answer": "30"
+  },
+  {
+    "riddle": "How many seeds are in an average sunflower head?",
+    "options": ["100", "500", "1,000", "2,000"],
+    "answer": "2,000"
+  },
+  {
+    "riddle": "How many acres are in a square mile?",
+    "options": ["100", "320", "640", "1,000"],
+    "answer": "640"
+  },
+  {
+    "riddle": "How many pounds does a full-grown Holstein cow typically weigh?",
+    "options": ["800", "1,200", "1,500", "2,000"],
+    "answer": "1,500"
+  },
+  {
+    "riddle": "How many kernels are there in an average ear of corn?",
+    "options": ["200", "400", "600", "800"],
+    "answer": "800"
+  },
+  {
+    "riddle": "How many days does it take for a calf to be weaned from its mother?",
+    "options": ["30", "60", "90", "120"],
+    "answer": "90"
+  },
+  {
+    "riddle": "How many months does it take for a pig to reach market weight?",
+    "options": ["3", "5", "7", "9"],
+    "answer": "5"
+  },
+  {
+    "riddle": "How many years can a dairy cow produce milk before being retired?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "6"
+  },
+  {
+    "riddle": "How many days does it take for a honeybee egg to hatch into a larva?",
+    "options": ["1", "3", "5", "7"],
+    "answer": "3"
+  },
+  {
+    "riddle": "How many gallons of water does a sheep drink per day on average?",
+    "options": ["1", "3", "5", "7"],
+    "answer": "3"
+  },
+  {
+    "riddle": "How many acres does it take to feed one cow for a year on pasture?",
+    "options": ["1", "2", "5", "10"],
+    "answer": "2"
+  },
+  {
+    "riddle": "How many feet deep should a well be for reliable farm irrigation?",
+    "options": ["50", "100", "200", "500"],
+    "answer": "200"
+  },
+  {
+    "riddle": "How many gallons of sap does it take to make one gallon of maple syrup?",
+    "options": ["10", "20", "30", "40"],
+    "answer": "40"
+  },
+  {
+    "riddle": "How many days does it take for wheat to fully mature?",
+    "options": ["90", "120", "150", "180"],
+    "answer": "150"
+  },
+  {
+    "riddle": "How many pounds of nitrogen fertilizer are typically needed per acre for corn?",
+    "options": ["50", "100", "150", "200"],
+    "answer": "150"
+  },
+  {
+    "riddle": "How many times does a cow chew its cud per day?",
+    "options": ["100", "200", "300", "400"],
+    "answer": "400"
+  },
+  {
+    "riddle": "How many quarts of milk does it take to make a pound of butter?",
+    "options": ["5", "10", "15", "20"],
+    "answer": "10"
+  },
+  {
+    "riddle": "How many acres of land are used for farming worldwide?",
+    "options": ["1 billion", "3 billion", "5 billion", "7 billion"],
+    "answer": "5 billion"
+  },
+  {
+    "riddle": "How many days does it take for an apple to ripen on a tree?",
+    "options": ["30", "60", "90", "120"],
+    "answer": "90"
+  },
+  {
+    "riddle": "How many pigs are typically housed in a modern pig barn?",
+    "options": ["100", "500", "1,000", "2,000"],
+    "answer": "1,000"
+  },
+  {
+    "riddle": "How many hours does a farmer typically work per week during harvest season?",
+    "options": ["40", "50", "60", "80"],
+    "answer": "80"
+  }
+]
